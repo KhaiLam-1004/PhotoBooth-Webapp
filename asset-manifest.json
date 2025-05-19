@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Photobooth-app/static/js/main.27df8e80.js",
+    "main.js": "/Photobooth-app/static/js/main.ca7a800a.js",
     "index.html": "/Photobooth-app/index.html",
-    "main.27df8e80.js.map": "/Photobooth-app/static/js/main.27df8e80.js.map"
+    "main.ca7a800a.js.map": "/Photobooth-app/static/js/main.ca7a800a.js.map"
   },
   "entrypoints": [
-    "static/js/main.27df8e80.js"
+    "static/js/main.ca7a800a.js"
   ]
 }
